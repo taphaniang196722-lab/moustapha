@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lumina Stratégie - Agence de Communication",
+  "description": "Une application web moderne et responsive pour une agence de communication créative, incluant un consultant IA intégré pour l'analyse de projets.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
